@@ -1,4 +1,4 @@
-# 🇹🇷 Resident Evil 2 Remake – Türkçe AI Dublaj (STEALTH BUILD)
+# 🇹🇷 Resident Evil 2 Remake – Türkçe AI Dublaj (PUBLIC BUILD)
 
 ![Banner](screenshot.jpg)
 
@@ -84,4 +84,5 @@ Projeye destek olmak isterseniz:
 ## 🚀 Durum
 **Status:** ACTIVE  
 **Channel:** SECURE  
-**State:** Classified Release
+**State:** Official Public Build
+
