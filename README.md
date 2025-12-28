@@ -4,7 +4,7 @@
 
 ## 📥 İNDİRME
 🔻 **MODU BURADAN İNDİR** 🔻  
-https://github.com/ShawAltair/RE2-StealthBuild-TR-Audio/releases/latest
+[📥 Download – Stealth Build](https://github.com/ShawAltair/RE2-StealthBuild-TR-Audio/releases/latest)
 
 ---
 
@@ -82,6 +82,6 @@ Projeye destek olmak isterseniz:
 ---
 
 ## 🚀 Durum
-Status : ACTIVE
-Channel: SECURE
-State : Classified Release
+**Status:** ACTIVE  
+**Channel:** SECURE  
+**State:** Classified Release
