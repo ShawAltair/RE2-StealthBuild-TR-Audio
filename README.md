@@ -3,6 +3,8 @@
 
 ![Banner](screenshot.jpg)
 
+[📥 Download – Stealth Build](https://github.com/ShawAltair/RE2-StealthBuild-TR-Audio/releases/latest)
+
 ## 🎧 Proje Hakkında
 Bu proje, **Resident Evil 2 Remake** için tam kapsamlı **Türkçe AI dublaj** çalışmasıdır.  
 Amaç; oyunu Türk oyuncular için daha erişilebilir, daha sinematik ve daha etkileyici bir deneyim haline getirmektir.
