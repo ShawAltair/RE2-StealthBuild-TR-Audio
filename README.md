@@ -3,6 +3,9 @@
 
 ![Banner](screenshot.jpg)
 
+## 📥 İNDİRME
+
+🔻 MODU BURADAN İNDİR 🔻  
 [📥 Download – Stealth Build](https://github.com/ShawAltair/RE2-StealthBuild-TR-Audio/releases/latest)
 
 ## 🎧 Proje Hakkında
