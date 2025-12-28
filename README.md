@@ -1,4 +1,4 @@
-# 🇹🇷 Resident Evil 2 Remake – Türkçe AI Dublaj (PUBLIC BUILD)
+# 🇹🇷 Resident Evil 2 Remake – Türkçe AI Dublaj (OFFICIAL PUBLIC RELEASE)
 
 ![Banner](screenshot.jpg)
 
